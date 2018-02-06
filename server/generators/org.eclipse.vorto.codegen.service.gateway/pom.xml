@@ -196,6 +196,11 @@
 			<artifactId>org.eclipse.vorto.codegen.ditto</artifactId>
 			<version>${project.version}</version>
 		</dependency>
+		<dependency>
+			<groupId>org.eclipse.vorto</groupId>
+			<artifactId>org.eclipse.vorto.codegen.connectedbuilding</artifactId>
+			<version>${project.version}</version>
+		</dependency>
 		
 		<!-- Generator dependencies -->
 		

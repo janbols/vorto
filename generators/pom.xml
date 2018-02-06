@@ -15,7 +15,7 @@
   <packaging>pom</packaging>
 
   <modules>
-		<module>org.eclipse.vorto.codegen.thingworx</module>
+		<!--module>org.eclipse.vorto.codegen.thingworx</module>
 		<module>org.eclipse.vorto.codegen.javabean</module>
 		<module>org.eclipse.vorto.codegen.mqtt</module>
 		<module>org.eclipse.vorto.codegen.webui</module>
@@ -35,6 +35,7 @@
 		<module>org.eclipse.vorto.codegen.artik</module>
 		<module>org.eclipse.vorto.codegen.ble</module>
 		<module>org.eclipse.vorto.codegen.ble.alpwise</module>
-		<module>org.eclipse.vorto.codegen.ditto</module>
+		<module>org.eclipse.vorto.codegen.ditto</module-->
+		<module>org.eclipse.vorto.codegen.connectedbuilding</module>
   </modules>
 </project>
